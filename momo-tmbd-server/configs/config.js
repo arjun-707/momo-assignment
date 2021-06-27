@@ -1,4 +1,4 @@
 module.exports = {
-  movieAPIKey: 'a277863064b9496cc5cf4617ce59d6af',
-  movieAccessKey: 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhMjc3ODYzMDY0Yjk0OTZjYzVjZjQ2MTdjZTU5ZDZhZiIsInN1YiI6IjYwZDc1MjE1MjViOTU1MDA0NmIwMjAyYiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.DtSx6oAHKTFy20khyhbI6CrnpkbIAttWo7RcfwlQ-xo'
+  movieAPIKey: '',
+  movieAccessKey: ''
 };
